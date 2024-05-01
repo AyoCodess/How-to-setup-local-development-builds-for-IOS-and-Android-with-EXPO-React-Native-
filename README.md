@@ -1,5 +1,5 @@
 ## Before you get started...
-### By Ayo Adesanya
+##### By Ayo Adesanya
 
 1. This guide is was created with a Apple Mac. If you have a windows machine, terminal commands may be different.
 2. Please use `yarn` to install packages.
