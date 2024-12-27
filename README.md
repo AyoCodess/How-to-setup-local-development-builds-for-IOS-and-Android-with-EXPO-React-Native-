@@ -4,7 +4,7 @@
 
 
 1. This guide is was created with a Apple Mac. If you have a windows machine, terminal commands may be different.
-2. Please use `yarn` to install packages.
+2. i have use `yarn` to install packages but you can use any package manager
 3. A reference to all the package.json scripts are at the bottom of this document.
 
 ## Content Navigation
